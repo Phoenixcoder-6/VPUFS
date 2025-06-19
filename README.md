@@ -64,3 +64,28 @@ Output: reduced gene expression matrix
 --Metrics: Rand Index (RI), Adjusted Rand Index (ARI)
 
 VPUFS outperforms most traditional unsupervised methods in terms of both classification accuracy and clustering performance.
+
+## 🔍 Key Results
+![image](https://github.com/user-attachments/assets/736b74a4-3cba-4431-8062-8b985bec892e)
+
+
+## 📦 Installation & Usage
+
+# Clone the repository
+git clone https://github.com/your-username/VPUFS.git
+cd VPUFS
+# Install dependencies
+pip install -r requirements.txt
+# Run the VPUFS pipeline
+python vpufs_main.py
+Replace vpufs_main.py with the actual script name used.
+
+## 🧠 Future Work
+
+-Extend the framework to RNA-seq datasets
+
+-Integrate deep learning-based feature selectors
+
+-Deploy as a web-based cancer clustering tool
+
+
