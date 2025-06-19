@@ -72,7 +72,7 @@ VPUFS outperforms most traditional unsupervised methods in terms of both classif
 ## 📦 Installation & Usage
 
 # Clone the repository
-git clone https://github.com/your-username/VPUFS.git
+git clone https://github.com/Phoenixcoder-6/VPUFS.git
 cd VPUFS
 # Install dependencies
 pip install -r requirements.txt
