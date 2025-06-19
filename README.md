@@ -13,7 +13,7 @@ Gene expression datasets are highly dimensional, with only a small fraction of f
 -The selected features can then be used to improve performance in clustering algorithms such as K-Means, Spectral Clustering, GMM, etc., providing better insights into cancer subtypes.
 
 
-⚙️ Features
+## ⚙️ Features
 
 
 -Unsupervised feature selection (no class labels needed)
