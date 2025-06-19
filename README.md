@@ -88,4 +88,9 @@ Replace vpufs_main.py with the actual script name used.
 
 -Deploy as a web-based cancer clustering tool
 
+## 📚 Full Paper Access
+The complete research paper "Variance Score and Pearson Similarity based Unsupervised Feature Selection (VPUFS) for Sample Clustering in Microarray Gene Expression Data" is published in the IEEE International Conference 2024.
+
+📄 Access the full paper here: https://ieeexplore.ieee.org/document/10763835
+
 
