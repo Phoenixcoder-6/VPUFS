@@ -2,15 +2,17 @@
 This repository contains the implementation of VPUFS, a novel unsupervised feature selection framework designed to effectively reduce the high dimensionality of microarray gene expression data for cancer sample clustering.
 
 📌 Overview
+
+
 Gene expression datasets are highly dimensional, with only a small fraction of features (genes) being truly informative for classifying or clustering cancer samples. VPUFS addresses this issue by selecting the most relevant and non-redundant features using:
 
-Variance Score: Measures relevance based on statistical variability.
-
-Pearson Similarity: Identifies and eliminates redundant features by measuring pairwise correlations.
-
-The selected features can then be used to improve performance in clustering algorithms such as K-Means, Spectral Clustering, GMM, etc., providing better insights into cancer subtypes.
+-Variance Score: Measures relevance based on statistical variability.
+-Pearson Similarity: Identifies and eliminates redundant features by measuring pairwise correlations.
+-The selected features can then be used to improve performance in clustering algorithms such as K-Means, Spectral Clustering, GMM, etc., providing better insights into cancer subtypes.
 
 ⚙️ Features
+
+
 Unsupervised feature selection (no class labels needed)
 
 Efficient reduction of high-dimensional microarray gene data
