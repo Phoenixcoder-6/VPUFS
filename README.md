@@ -7,28 +7,36 @@ This repository contains the implementation of VPUFS, a novel unsupervised featu
 Gene expression datasets are highly dimensional, with only a small fraction of features (genes) being truly informative for classifying or clustering cancer samples. VPUFS addresses this issue by selecting the most relevant and non-redundant features using:
 
 -Variance Score: Measures relevance based on statistical variability.
+
 -Pearson Similarity: Identifies and eliminates redundant features by measuring pairwise correlations.
+
 -The selected features can then be used to improve performance in clustering algorithms such as K-Means, Spectral Clustering, GMM, etc., providing better insights into cancer subtypes.
+
 
 ⚙️ Features
 
 
-Unsupervised feature selection (no class labels needed)
+-Unsupervised feature selection (no class labels needed)
 
-Efficient reduction of high-dimensional microarray gene data
+-Efficient reduction of high-dimensional microarray gene data
 
-Improved clustering results using selected features
+-Improved clustering results using selected features
 
-Evaluated on multiple datasets: Leukemia, Colon, Prostate, Breast
+-Evaluated on multiple datasets: Leukemia, Colon, Prostate, Breast
 
-Tested against established techniques (Laplacian Score, MCFS, JELSR, NDFS, LDFS)
+-Tested against established techniques (Laplacian Score, MCFS, JELSR, NDFS, LDFS)
+
 
 📁 Dataset Info
-Dataset	Genes (Features)	Samples
-Leukemia	7070	72
-Colon	2000	62
-Prostate	12600	136
-Breast	7130	49
+
+
+Dataset	      Genes (Features)	   Samples
+Leukemia	       7070	               72
+Colon	           2000	               62
+Prostate	       12600	             136
+Breast	         7130	               49
+
+
 
 🧮 Methodology
 1. Data Preprocessing
