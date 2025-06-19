@@ -29,13 +29,7 @@ Gene expression datasets are highly dimensional, with only a small fraction of f
 
 📁 Dataset Info
 
-
-Dataset	      Genes (Features)	   Samples
-Leukemia	       7070	               72
-Colon	           2000	               62
-Prostate	       12600	             136
-Breast	         7130	               49
-
+![image](https://github.com/user-attachments/assets/7c35a5e6-5cda-4338-9079-d74692f7a8e6)
 
 
 🧮 Methodology
