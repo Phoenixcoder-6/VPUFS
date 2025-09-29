@@ -1,7 +1,7 @@
 ## VPUFS
 This repository contains the implementation of VPUFS, a novel unsupervised feature selection framework designed to effectively reduce the high dimensionality of microarray gene expression data for cancer sample clustering.
 
-## 📌 Overview..
+## 📌 Overview...
 
 
 Gene expression datasets are highly dimensional, with only a small fraction of features (genes) being truly informative for classifying or clustering cancer samples. VPUFS addresses this issue by selecting the most relevant and non-redundant features using:
